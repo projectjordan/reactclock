@@ -1,0 +1,25 @@
+body{
+    height: 100%;
+    width: auto;
+    overflow: hidden;
+}
+
+.clockBox {
+    display: flex;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.clock {
+    display: flex;
+    position: relative;
+    margin: 40% auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 7rem;
+    width: 15rem;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-size: larger;
+}
