@@ -46,7 +46,7 @@ body.light .btn {
 }
 
 body.dark {
-    background: #121212;
+    background: #444242;
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
