@@ -1,3 +1,2 @@
-Simple reactjs clock component idk why i cant get this to work the way i want it to btw
-
+ReactJs Clock Componment with a Theme Switcher! (*Working on a gif of the themes switching)
 ![clock demo](2025-06-02-112826_hyprshot.png)
