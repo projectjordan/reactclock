@@ -50,3 +50,22 @@ body.dark {
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
+
+body.default {
+  background-color: white;
+  color: black;
+}
+
+body.emo-kid {
+  background-color: #111;
+  color: hotpink;
+}
+
+body.terminal {
+  background-color: black;
+  color: limegreen;
+}
+
+.dropBox {
+    margin-top: -5%;
+}

@@ -3,6 +3,7 @@ import './App.css'
 import Clock from './Clock'
 import Theme from './Theme'
 import Dropdown from './Dropdown'
+import ThemeDropdown from './ThemeDropdown'
 
 function App() {
   
@@ -10,8 +11,7 @@ function App() {
   return (
     <>
       <Clock/>
-      <Theme/>
-      <Dropdown/>
+      <ThemeDropdown/>
     </>
   )
 }
